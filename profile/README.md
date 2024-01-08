@@ -1,4 +1,4 @@
-![RESTART - FUN-Media Logo](../funmedia_logo.png)
+![RESTART - FUN-Media Logo](./funmedia_logo.png)
 
 # Aim of the research
 
