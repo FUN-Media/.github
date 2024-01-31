@@ -1,4 +1,4 @@
-# FUN-Media Group
+# FUN-Media project
 
 ## Aim of the research
 
